@@ -1,0 +1,14 @@
+PyQt6
+opencv-python
+numpy
+torch
+torchaudio
+transformers
+ffmpeg-python
+openai-whisper
+demucs
+coqui-tts
+python-dotenv
+sentencepiece
+huggingface_hub
+tqdm
